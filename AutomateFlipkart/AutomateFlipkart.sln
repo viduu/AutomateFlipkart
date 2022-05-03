@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomateFlipkart", "AutomateFlipkart.csproj", "{FD6EEF89-EFE8-4B03-8233-1E5598D3E3DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD6EEF89-EFE8-4B03-8233-1E5598D3E3DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD6EEF89-EFE8-4B03-8233-1E5598D3E3DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD6EEF89-EFE8-4B03-8233-1E5598D3E3DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD6EEF89-EFE8-4B03-8233-1E5598D3E3DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5386D69E-9BE4-4BC0-A3C2-24447424FA6B}
+	EndGlobalSection
+EndGlobal

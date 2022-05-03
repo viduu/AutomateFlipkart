@@ -1,0 +1,17 @@
+2022-05-03 19:56:35.885|INF|Selecting feature file "Automate The Online Shopping site Flipkart" to run 
+2022-05-03 19:57:07.955|INF|Selecting feature file "Automate Flipkart website homepage" to run 
+2022-05-03 19:57:08.012|INF|The Website launched Successfully
+2022-05-03 19:57:08.269|DBG|
+	WELCOME to FlipKart 
+The "Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!" 
+2022-05-03 19:57:08.269|INF|Title Matched
+2022-05-03 19:57:08.273|INF|Verify the tabs
+2022-05-03 19:57:08.357|DBG|"Mobiles" Tab Exists
+2022-05-03 19:57:08.410|DBG|"Fashion" Tab Exists
+2022-05-03 19:57:08.467|DBG|"Electronics" Tab Exists
+2022-05-03 19:57:08.514|DBG|"Home" Tab Exists
+2022-05-03 19:57:08.563|DBG|"Travel" Tab Exists
+2022-05-03 19:57:08.610|DBG|"Appliances" Tab Exists
+2022-05-03 19:57:08.652|DBG|"Beauty,Toys & more" Tab Exists
+2022-05-03 19:57:08.699|DBG|"Grocery" Tab Exists
+2022-05-03 19:57:08.699|INF|Furniture Tab not Exists
